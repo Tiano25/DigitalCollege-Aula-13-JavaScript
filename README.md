@@ -1,6 +1,6 @@
-Entendido. Eu atualizei o título no README.
+Excelente\! Inseri seus links e e-mail na seção "Autor" para que as pessoas possam entrar em contato e ver mais do seu trabalho.
 
-Aqui está a versão final com o título modificado:
+Aqui está o README final:
 
 ```markdown
 # 💻 Calculando IMC Em Java Script
@@ -60,5 +60,13 @@ Este projeto está sob a licença [Nome da Licença, ex: MIT]. Veja o arquivo [`
 
 ## 🧑‍💻 Autor
 
-[Seu Nome/Nome de Usuário no GitHub](LINK_PARA_PERFIL_GITHUB)
+**Tiano Viana**
+
+Desenvolvedor Principal
+
+| Plataforma | Link |
+| :---: | :--- |
+| **GitHub** | [Tiano25](https://github.com/Tiano25) |
+| **LinkedIn** | [Tiano Viana](https://www.linkedin.com/in/tiano-viana) |
+| **E-mail** | tianosud@gmail.com |
 ```

@@ -1,8 +1,4 @@
-Excelente\! Inseri seus links e e-mail na seção "Autor" para que as pessoas possam entrar em contato e ver mais do seu trabalho.
 
-Aqui está o README final:
-
-```markdown
 # 💻 Calculando IMC Em Java Script
 
 Este é um projeto simples em JavaScript que permite ao usuário calcular seu Índice de Massa Corporal (IMC) e receber uma classificação de saúde baseada no resultado.
